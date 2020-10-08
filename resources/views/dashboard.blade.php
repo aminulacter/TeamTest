@@ -10,7 +10,7 @@
             <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
              Hi {{ Auth::user()->name }}
              <p>hello Try new things</p>
-             <p>try to develop branch<p>
+             <p>try to develop branch again<p>
             </div>
         </div>
     </div>
