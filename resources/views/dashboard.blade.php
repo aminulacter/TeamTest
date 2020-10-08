@@ -11,7 +11,7 @@
              Hi {{ Auth::user()->name }}
              <p>hello Try new things</p>
              <p>try to develop branch again<p>
-             <p> New develop on way</p>
+             <p> New develop on way again again</p>
             </div>
         </div>
     </div>
